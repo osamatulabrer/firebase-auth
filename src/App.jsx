@@ -1,9 +1,9 @@
-import GoogleAuth from './googleAuth/GoogleAuth'
+import EmailAuth from "./firebase/EmailAuth/EmailAuth"
 
 const App = () => {
   return (
     <div>
-      <GoogleAuth/>
+     
     </div>
   )
 }

@@ -1,5 +1,5 @@
 import { GoogleAuthProvider, signInWithPopup, signOut } from "firebase/auth";
-import {auth}from './firebase.init'
+import {auth} from './firebase.init'
 import { useState } from "react";
 import { GithubAuthProvider } from "firebase/auth";
 
